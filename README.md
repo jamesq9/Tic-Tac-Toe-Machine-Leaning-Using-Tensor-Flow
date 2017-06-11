@@ -6,10 +6,12 @@ Ticky is a Tensor Flow Model for playing Tic Tac Toe, which is trained to chose 
   <li>TensorFlow</li>
   <li>Flask</li>
   <li>numpy</li>
-  <ol>
+  </ol>
 
 ## How to Run
   sudo python3 ./server.py
+    or
+  python3 ./server.py
   
 Note: might want to change the port in server.py
 
